@@ -5,6 +5,7 @@ Notebook "all-purpose vllm qwen3 235b a22b - host"<br>
 The goal of this notebook is to model serve via vLLM the Large MoE model Qwen3 235B A22B within Databricks (as an all purpose cluster). 
 - The original author of this notebook is [Srinivas Billa](https://github.com/nivibilla).
 - Requires an instance type of g6e.48xlarge or larger to run.
+- Tested on DBR ML 16.4 LTS.
 - Future goal: To get serverless involved in serving large MoE models such as Qwen3 (not only PaaS)
 
 Notebook "all-purpose vllm - request"<br>
